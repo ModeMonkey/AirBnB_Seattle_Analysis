@@ -61,7 +61,7 @@ Linear regression
 
 ### Evaluation – Which model best meets the business objectives?
 
-Many features do not improve the results generated from linear regression.  These typically include features that are mostly NaN or have too many possible variables per feature. 
+Many features do not improve the results generated from linear regression.  These typically include features that are mostly NaN or have too many possible variables per feature.  Using every possible feature, 
 
 A best found model involes the following features per listing:
 
@@ -111,6 +111,8 @@ A best found model involes the following features per listing:
  'host_acceptance_rate_100%',
  'host_has_profile_pic_t',
  'host_identity_verified_t']
+
+ These features indicate that a unit's general availability, the host's profile, general characteristics of the unit, and a select number of amenities are the largest contributors in the ability to predict a unit's availability on a given holiday. 
 
 ### Deployment – How do stakeholders access the results?
 
