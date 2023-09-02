@@ -23,7 +23,7 @@ An effort to determine if characteristics of an AirBnB listing can be used with 
  
 ## Analysis Results:
 
-Results determine that linear regression provides only a nine percent increase in ability to predict a listing's availability (78% accurate) vs. always stating the the listing is available (69% accurate).  A significant number of features don't appear to positively influence the ability to predict a listing's availability on a particular holiday, such as most amenities, neightbourhoods, street name, zip code, property type, and various information on the host. 
+Results determine that linear regression provides only a nine percent increase in ability to predict a listing's availability (78% accurate) vs. always stating the the listing is available (69% accurate).  A significant number of features don't appear to positively influence the ability to predict a listing's availability on a particular holiday, such as most amenities, neighborhoods, street name, zip code, property type, and various information on the host. 
 
 The analysis also indicated that there is an increase in AirBnB availability on holidays throughtout 2016.  The trend appears to remain when removing listings that were created after the start of 2016.  Furthermore, a majority of listings are available during all U.S. federal holidays, indicating the property may be either always available by the host as a cash-generating property or the host travels during the holidays and makes the property available during those travels. 
 
