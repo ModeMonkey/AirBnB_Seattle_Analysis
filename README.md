@@ -121,10 +121,10 @@ The results at this stage are too infantile to be of use to stakeholders.  The r
 
 ### Licensing, Authors, and Acknowledgements
 
-Data Source: AirBnB Seattle data on Kaggle
+Data Source: AirBnB Seattle data on Kaggle<br>
 
-Source link: [https://www.kaggle.com/datasets/airbnb/seattle](https://www.kaggle.com/datasets/airbnb/seattle)
+Source link: [https://www.kaggle.com/datasets/airbnb/seattle](https://www.kaggle.com/datasets/airbnb/seattle)<br>
 
-License: CC0: Public Domain
+License: CC0: Public Domain<br>
 
-Achnowledgement: This dataset is part of Airbnb Inside, and the original source can be found here: [http://insideairbnb.com/get-the-data/](http://insideairbnb.com/get-the-data/)
+Achnowledgement: This dataset is part of Airbnb Inside, and the original source can be found here: [http://insideairbnb.com/get-the-data/](http://insideairbnb.com/get-the-data/)<br>
