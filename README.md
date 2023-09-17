@@ -118,3 +118,10 @@ These features indicate that a unit's general availability, the host's profile, 
 ### Deployment – How do stakeholders access the results?
 
 The results at this stage are too infantile to be of use to stakeholders.  The results are also not significantly better than stating that the property will be available by default - only a nine percent increase. 
+
+### Licensing, Authors, and Acknowledgements
+
+Data Source: AirBnB Seattle data on Kaggle
+Source link: [https://www.kaggle.com/datasets/airbnb/seattle](https://www.kaggle.com/datasets/airbnb/seattle)
+License: CC0: Public Domain
+Achnowledgement: This dataset is part of Airbnb Inside, and the original source can be found here: [http://insideairbnb.com/get-the-data/](http://insideairbnb.com/get-the-data/)
