@@ -1,5 +1,9 @@
 # AirBnB_Seattle_Analysis
 
+## Link to Blog Entry:
+
+[Can You Vacation On A Holiday using AirBNB?](https://github.com/ModeMonkey/AirBnB_Seattle_Analysis/blob/main/Blog.pdf)
+
 ## Libraries used:
 
  - pandas     - Data manipulation, visualization through grids
