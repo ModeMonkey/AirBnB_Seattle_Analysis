@@ -131,4 +131,4 @@ Source link: [https://www.kaggle.com/datasets/airbnb/seattle](https://www.kaggle
 
 License: CC0: Public Domain<br>
 
-Achnowledgement: This dataset is part of Airbnb Inside, and the original source can be found here: [http://insideairbnb.com/get-the-data/](http://insideairbnb.com/get-the-data/)<br>
+Acknowledgement: This dataset is part of Airbnb Inside, and the original source can be found here: [http://insideairbnb.com/get-the-data/](http://insideairbnb.com/get-the-data/)<br>
